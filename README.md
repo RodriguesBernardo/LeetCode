@@ -8,6 +8,7 @@
 - [Valid_Parentheses](Valid_Parentheses.py)
 - [Merge Two Sorted Lists](MergeTwoSortedLists.py)
 - [TwoSum](TwoSum.py)
+- [Find Index of the First Occurence](FindIndexFirstOccurence.py)
 
 
 
