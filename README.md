@@ -8,14 +8,8 @@
 - [Valid_Parentheses](Valid_Parentheses.py)
 - [Merge Two Sorted Lists](MergeTwoSortedLists.py)
 - [TwoSum](TwoSum.py)
-<<<<<<< HEAD
 - [Remove Duplicates](RemoveDuplicates.py)
 - [Remove Elements](RemoveElement.py)
-=======
-- [Find Index of the First Occurence](FindIndexFirstOccurence.py)
-
->>>>>>> refs/remotes/origin/main
-
 
 ### Exercicios Aleatorios
 - [Piramede de asteriscos](piramedeAsteriscos.py)
