@@ -3,4 +3,4 @@ def piramede(tamanho):
         print(" " * (tamanho - i) + "*" * (2 * i - 1))
         
         
-piramede(1)
+piramede(10)
